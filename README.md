@@ -1,4 +1,4 @@
-# stripe.com
+# clicky.com
 
 A [Stacklane Connector](https://stacklane.com/docs/scripting/connectors) for [Clicky.com](https://clicky.com).
 
