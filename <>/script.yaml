@@ -6,4 +6,6 @@ csp:
   script-src: 
     - https://static.getclicky.com
     - https://in.getclicky.com
-  connect-src: https://static.getclicky.com
+  connect-src:
+    - https://static.getclicky.com
+    - https://in.getclicky.com
