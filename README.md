@@ -1,6 +1,6 @@
 # stripe.com
 
-A [Stacklane Connector](https://stacklane.com/docs/scripting/connectors) for the [Clicky](https://clicky.com).
+A [Stacklane Connector](https://stacklane.com/docs/scripting/connectors) for [Clicky.com](https://clicky.com).
 
 ## Import
 
