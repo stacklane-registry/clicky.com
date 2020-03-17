@@ -7,7 +7,7 @@ A [Stacklane Connector](https://stacklane.com/docs/api/connectors) for [Clicky.c
 /🔌.yaml
 
 ```
-- https://github.com/stacklane-registry/clicky.com.git
+- https://github.com/stacklane-registry/clicky.com.git#!v1.0.1
 ```
 
 ## Tag Usage
